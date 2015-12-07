@@ -1,0 +1,64 @@
+$ java EightQueens 7 1
+Queen location: (8,4)
+Queen location: (6,5)
+Queen location: (5,8)
+Queen location: (4,6)
+Queen location: (3,3)
+Queen location: (2,7)
+Queen location: (1,2)
+Queen location: (7,1)
+Initial placement (7,1)
+[ ][Q][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][Q][ ]
+[ ][ ][Q][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][Q][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][Q]
+[ ][ ][ ][ ][Q][ ][ ][ ]
+[Q][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][Q][ ][ ][ ][ ]
+
+$ java EightQueens c6
+Queen location: d1
+Queen location: a2
+Queen location: e3
+Queen location: h4
+Queen location: f5
+Queen location: g7
+Queen location: b8
+Queen location: c6
+Initial placement c6
+[ ][Q][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][Q][ ]
+[ ][ ][Q][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][Q][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][Q]
+[ ][ ][ ][ ][Q][ ][ ][ ]
+[Q][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][Q][ ][ ][ ][ ]
+
+$ java EightQueens 0
+Enter the dimension of the board: 11
+Enter the first queen: ba
+Queen location: j1
+Queen location: g2
+Queen location: c3
+Queen location: f4
+Queen location: h5
+Queen location: a6
+Queen location: k7
+Queen location: i8
+Queen location: e9
+Queen location: d11
+Queen location: b10
+Initial placement b10
+[ ][ ][ ][Q][ ][ ][ ][ ][ ][ ][ ]
+[ ][Q][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][Q][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ][Q][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][Q]
+[Q][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][Q][ ][ ][ ]
+[ ][ ][ ][ ][ ][Q][ ][ ][ ][ ][ ]
+[ ][ ][Q][ ][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][Q][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ][ ][Q][ ]
